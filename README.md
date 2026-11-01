@@ -159,22 +159,28 @@ const nithiyanandam = {
 
 <img src="assets/fading_line.gif" width="100%" />
 
-## 📊 Live GitHub Telemetry
+## 📈 GitHub Stats & Streak
 
 <div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nike-Anand&theme=tokyonight&hide_border=true" width="75%" alt="Nike-Anand's Streak" />
+</div>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nike-Anand&theme=tokyonight&hide_border=true" width="70%" alt="GitHub Streak" />
+<img src="assets/fading_line.gif" width="100%" />
 
-<br><br>
+## 📊 Contribution Heatmap
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Nike-Anand&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="48%" alt="GitHub Stats" />
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Nike-Anand&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
+<div align="center">
+  <img src="https://ghchart.rshah.org/2563EB/Nike-Anand" width="100%" alt="Nike-Anand's Github Contribution Heatmap" />
+</div>
 
-<br><br>
+<img src="assets/fading_line.gif" width="100%" />
 
-<h3>📈 Contribution Heatmap</h3>
-<img src="https://ghchart.rshah.org/2563EB/Nike-Anand" width="100%" alt="Nike-Anand's Github Contribution Heatmap" />
+## 🐍 Contribution Snake
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Nike-Anand/Nike-Anand/output/github-snake.svg" alt="Snake animation" />
+  <br>
+  <img src="https://raw.githubusercontent.com/Nike-Anand/Nike-Anand/output/github-snake-dark.svg" alt="Snake animation dark" />
 </div>
 
 <img src="assets/fading_line.gif" width="100%" />
