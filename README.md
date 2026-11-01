@@ -1,8 +1,10 @@
+<p align="center">
+  <img src="assets/banner_at_top.gif" alt="MasterHead" width="100%" />
+</p>
+
 <div align="center">
 
-# ⚡ S. Nithiyanandam (Nike-Anand)
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=2563EB&center=true&vCenter=true&random=false&width=1100&height=70&lines=%E2%9A%A1+Software+Engineer+%26+Backend+Specialist;%F0%9F%9B%A0%EF%B8%8F+Distributed+Systems+%7C+Low-Latency+Inference;%F0%9F%8F%86+SIH+2024+%26+2025+National+Finalist+(Team+Lead);%F0%9F%94%90+Post-Quantum+Cryptography+(CRYSTALS-Kyber);%E2%98%95+Enterprise+Java+%26+FastAPI+Microservices;%F0%9F%9A%80+Turning+Complex+Algorithms+Into+Scalable+Engines)](https://github.com/Nike-Anand)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=2563EB&center=true&vCenter=true&random=false&width=1100&height=70&lines=%E2%9A%A1+Software+Engineer+%26+Backend+Specialist;%F0%9F%9B%A0%EF%B8%8F+Distributed+Systems+%7C+Low-Latency+Inference;%F0%9F%8F%86+SIH+2024+%26+2025+National+Finalist+(Team+Lead);%F0%9F%94%90+Post-Quantum+Cryptography+(CRYSTALS-Kyber);%E2%98%95+Enterprise+Java+%26+FastAPI+Microservices;%F0%9F%9A%80+Turning+Complex+Algorithms+Into+Scalable+Engines)
 
 **`👨‍💻 Software Engineer`** • **`⚙️ Backend Architect`** • **`🌐 Distributed Systems`** • **`🔐 Cryptography Researcher`** • **`📍 Chennai, India`**
 
@@ -16,9 +18,15 @@
 
 </div>
 
----
+<div align="center">
+  <img src="assets/cute_working.gif" width="280" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="assets/eat_sleep_code.gif" width="280" />
+</div>
 
-## 👨‍💻 `> whoami`
+<img src="assets/fading_line.gif" width="100%" />
+
+## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="24"> `> whoami`
 
 ```javascript
 const nithiyanandam = {
@@ -41,9 +49,9 @@ const nithiyanandam = {
 };
 ```
 
----
+<img src="assets/fading_line.gif" width="100%" />
 
-## 🛠️ Tech Arsenal
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="24"> Tech Arsenal
 
 <div align="center">
 
@@ -86,7 +94,7 @@ const nithiyanandam = {
 
 </div>
 
----
+<img src="assets/fading_line.gif" width="100%" />
 
 ## 🏆 Featured Projects & Architectures
 
@@ -149,31 +157,35 @@ const nithiyanandam = {
   </tr>
 </table>
 
----
+<img src="assets/fading_line.gif" width="100%" />
 
 ## 📊 Live GitHub Telemetry
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Nike-Anand&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="48%" alt="GitHub Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nike-Anand&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nike-Anand&theme=tokyonight&hide_border=true" width="70%" alt="GitHub Streak" />
 
-<br>
+<br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nike-Anand&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nike-Anand&theme=tokyo-night&hide_border=true&area=true" width="48%" alt="Activity Graph" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Nike-Anand&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="48%" alt="GitHub Stats" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Nike-Anand&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
+
+<br><br>
+
+<h3>📈 Contribution Heatmap</h3>
+<img src="https://ghchart.rshah.org/2563EB/Nike-Anand" width="100%" alt="Nike-Anand's Github Contribution Heatmap" />
 
 </div>
 
----
+<img src="assets/fading_line.gif" width="100%" />
 
-## 🐍 Contribution Snake Eater
+## 🎮 Dino Run
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Nike-Anand/Nike-Anand/output/github-snake.svg" alt="Snake Animation" width="100%" />
+  <img src="assets/dino_game.gif" width="600" alt="Dino Running" />
 </div>
 
----
+<img src="assets/fading_line.gif" width="100%" />
 
 ## 📜 Quest Log (Developer Progression)
 
@@ -232,7 +244,7 @@ const nithiyanandam = {
 
 </details>
 
----
+<img src="assets/fading_line.gif" width="100%" />
 
 ## 💬 Developer Wisdom
 
@@ -240,14 +252,20 @@ const nithiyanandam = {
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
 </div>
 
----
+<img src="assets/fading_line.gif" width="100%" />
 
 ## 📬 Let's Connect & Collaborate
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nithiyanandam-s)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nike-Anand)
+<a href="https://linkedin.com/in/nithiyanandam-s"><img src="assets/linkedin_logo.gif" width="38" alt="LinkedIn" /></a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/Nike-Anand"><img src="assets/github_logo.gif" width="38" alt="GitHub" /></a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://instagram.com"><img src="assets/insta_logo.gif" width="38" alt="Instagram" /></a>
+
+<br><br>
+
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nithiyanandam4826@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Interactive_Portfolio-2563EB?style=for-the-badge&logo=windows-xp&logoColor=white)](https://github.com/Nike-Anand)
 
@@ -259,7 +277,13 @@ const nithiyanandam = {
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&pause=1000&color=2563EB&center=true&vCenter=true&random=false&width=600&lines=Thanks+for+visiting!+Drop+a+%E2%AD%90+if+you+enjoyed+this+profile;Let's+build+fault-tolerant+systems+together+%F0%9F%9A%80;Latency+down%2C+throughput+up!+%F0%9F%94%A5" />
 
-<br>
+<br><br>
+
+<img src="assets/headphone.gif" width="80" />
+&nbsp;&nbsp;
+<img src="assets/cat_pixel.gif" width="80" />
+
+<br><br>
 
 <img src="https://img.shields.io/badge/GAME_OVER-INSERT_COIN_TO_CONTINUE-2563EB?style=for-the-badge&logo=retropie&logoColor=white" />
 
