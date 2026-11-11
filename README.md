@@ -16,6 +16,7 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-Nike__Anand-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/Nike_Anand/)
 [![SIH Finalist](https://img.shields.io/badge/Hackathon-SIH_2024_%26_2025_Finalist-FF9900?style=flat-square&logo=trophy&logoColor=white)](https://github.com/Nike-Anand)
 [![Amazon ML](https://img.shields.io/badge/Amazon-ML_Summer_School_2026-FF9900?style=flat-square&logo=amazon&logoColor=white)](https://github.com/Nike-Anand)
+[![Interactive XP Portfolio](https://img.shields.io/badge/Interactive_Portfolio-Windows_XP_OS-0055EA?style=flat-square&logo=windowsxp&logoColor=white)](https://nike-anand.github.io/)
 [![Resume](https://img.shields.io/badge/Resume-Download_PDF-2563EB?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1blr2kOwfY969zjCi__Vzlmxu1lAuCw7I/view?usp=sharing)
 
 </div>
