@@ -264,7 +264,7 @@ const nithiyanandam = {
 
 <div align="center">
 
-<a href="https://linkedin.com/in/nithiyanandam-s"><img src="assets/linkedin_logo.gif" width="38" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/nithiyanandam-s-6a0553232/"><img src="assets/linkedin_logo.gif" width="38" alt="LinkedIn" /></a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/Nike-Anand"><img src="assets/github_logo.gif" width="38" alt="GitHub" /></a>
 &nbsp;&nbsp;&nbsp;&nbsp;
