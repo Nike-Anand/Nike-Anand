@@ -4,17 +4,19 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=2563EB&center=true&vCenter=true&random=false&width=1100&height=70&lines=%E2%9A%A1+Software+Engineer+%26+Backend+Specialist;%F0%9F%9B%A0%EF%B8%8F+Distributed+Systems+%7C+Low-Latency+Inference;%F0%9F%8F%86+SIH+2024+%26+2025+National+Finalist+(Team+Lead);%F0%9F%94%90+Post-Quantum+Cryptography+(CRYSTALS-Kyber);%E2%98%95+Enterprise+Java+%26+FastAPI+Microservices;%F0%9F%9A%80+Turning+Complex+Algorithms+Into+Scalable+Engines)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=2563EB&center=true&vCenter=true&random=false&width=1100&height=70&lines=%E2%9A%A1+Software+Engineer+%26+Backend+Specialist;%F0%9F%9B%A0%EF%B8%8F+Full+Stack+%7C+Next.js+%2B+Python+%2B+React;%F0%9F%8F%86+SIH+2024+%26+2025+National+Finalist+(Team+Lead);%F0%9F%A4%96+AI%2FML+Practitioner+%7C+Amazon+ML+Summer+School;%F0%9F%94%90+Post-Quantum+Cryptography+(CRYSTALS-Kyber);%F0%9F%9A%80+Building+Scalable+Web+Engines+%26+Resilient+APIs)
 
-**`👨‍💻 Software Engineer`** • **`⚙️ Backend Architect`** • **`🌐 Distributed Systems`** • **`🔐 Cryptography Researcher`** • **`📍 Chennai, India`**
+**`👨‍💻 Software Engineer`** • **`🌐 Full Stack & Backend`** • **`🤖 Machine Learning`** • **`🔐 Cryptography Researcher`** • **`📍 Chennai, India`**
 
 <br>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Nike-Anand&label=PROFILE+VIEWS&color=2563EB&style=flat-square)](https://github.com/Nike-Anand)
 [![Followers](https://img.shields.io/github/followers/Nike-Anand?label=FOLLOWERS&color=2563EB&style=flat-square)](https://github.com/Nike-Anand)
 [![Stars](https://img.shields.io/github/stars/Nike-Anand?label=TOTAL+STARS&color=2563EB&style=flat-square)](https://github.com/Nike-Anand)
-[![Current Role](https://img.shields.io/badge/Internship-Sify_Technologies-0052CC?style=flat-square&logo=java&logoColor=white)](https://www.sifytechnologies.com/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Nike__Anand-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/Nike_Anand/)
 [![SIH Finalist](https://img.shields.io/badge/Hackathon-SIH_2024_%26_2025_Finalist-FF9900?style=flat-square&logo=trophy&logoColor=white)](https://github.com/Nike-Anand)
+[![Amazon ML](https://img.shields.io/badge/Amazon-ML_Summer_School_2026-FF9900?style=flat-square&logo=amazon&logoColor=white)](https://github.com/Nike-Anand)
+[![Resume](https://img.shields.io/badge/Resume-Download_PDF-2563EB?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1blr2kOwfY969zjCi__Vzlmxu1lAuCw7I/view?usp=sharing)
 
 </div>
 
@@ -30,22 +32,36 @@
 
 ```javascript
 const nithiyanandam = {
-  name: "S. Nithiyanandam",
-  role: "Software Engineer & Backend Specialist",
-  location: "Chennai, India 🇮🇳",
-  currentCompany: "Sify Technologies (Software Development Intern)",
-  education: "B.E. Computer Science & Engineering @ SVCE (2023 - 2027) | GPA: 7.9/10",
-  coreFocus: [
-    "Distributed Backend Architectures",
-    "Low-Latency Inference Pipelines",
-    "Post-Quantum Cryptography (CRYSTALS-Kyber)",
-    "Enterprise Java & Microservices Decomposition",
-    "Automated CI/CD Orchestration & Telemetry"
+  name: "Nithiyanandam S",
+  role: "Software Engineering Intern | Full Stack & ML Enthusiast",
+  location: "Chennai, Tamil Nadu, India 🇮🇳",
+  education: "B.E. Computer Science & Engineering @ SVCE (2023 - Expected May 2027) | CGPA: 7.8/10",
+  experience: [
+    "Software Development Engineer Intern @ Tech Machers (Payload CMS, Next.js, React, Node.js, Docker)",
+    "Data Analyst Intern @ Vi (Vodafone Idea) (Telecom data churn analysis at scale with SQL & Python)",
+    "AI/ML Intern & Generative AI Trainer @ Altruisty (Trained 20+ interns, Amazon Product NLP engine)"
   ],
-  leadership: "Team Lead @ Smart India Hackathon (SIH 2024 National Finalist)",
-  publishedResearch: "Secure AI Systems (IJCRT / ICICRCET'25)",
-  funFact: "I profile microsecond latency bottlenecks while listening to synthwave 🎧",
-  motto: "Latency is the enemy, resiliency is the mission. 🚀"
+  accolades: [
+    "Smart India Hackathon (SIH) National Finalist (2024 & 2025)",
+    "Infosys Hackathon 2025 (Top 6 Nationwide)",
+    "D3 Fest, IIIT Bhubaneswar (State Winner, AIR 9)",
+    "Amazon ML Summer School 2026 Participant"
+  ],
+  publishedResearch: "Lightweight Post-Quantum Cryptography for IoT (IJCRT 2025)",
+  certifications: [
+    "Google Cloud Generative AI Leader",
+    "NPTEL Computer Vision & NLP (Elite + Gold)",
+    "Postman API Student Expert",
+    "Anthropic AI Fluency & Claude 101"
+  ],
+  contact: {
+    email: "nikeanand97@gmail.com",
+    phone: "+91-7826060700",
+    linkedin: "https://www.linkedin.com/in/nithiyanandam-s-6a0553232/",
+    leetcode: "https://leetcode.com/u/Nike_Anand/",
+    instagram: "https://www.instagram.com/jtz_me_anand?vrfl=cmRuMGc3dWk5cXgz"
+  },
+  motto: "Latency is the enemy, user-first engineering is the mission. 🚀"
 };
 ```
 
@@ -56,41 +72,40 @@ const nithiyanandam = {
 <div align="center">
 
 ### 💻 Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### ⚙️ Backend, Frameworks & Protocols
+### 🌐 Frontend & Full Stack
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Payload CMS](https://img.shields.io/badge/Payload_CMS-111111?style=for-the-badge&logo=payloadcms&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Microservices](https://img.shields.io/badge/Microservices_Architecture-0052CC?style=for-the-badge&logo=serverless&logoColor=white)
-![gRPC](https://img.shields.io/badge/gRPC-244F5D?style=for-the-badge&logo=grpc&logoColor=white)
-![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
-![REST APIs](https://img.shields.io/badge/RESTful_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+### 🤖 AI, Machine Learning & Computer Vision
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TorchServe](https://img.shields.io/badge/TorchServe-FF6F00?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![OCR / CRNN](https://img.shields.io/badge/OCR-CRNN_Architectures-008080?style=for-the-badge&logo=tesseract&logoColor=white)
+![Transformers / NLP](https://img.shields.io/badge/Transformers-GenAI_%26_NLP-FF6F00?style=for-the-badge&logo=huggingface&logoColor=white)
+![Post-Quantum Crypto](https://img.shields.io/badge/CRYSTALS--Kyber-PQC_Encryption-4A154B?style=for-the-badge&logo=securityscorecard&logoColor=white)
 
-### ☁️ Cloud, DevOps & Distributed Infra
+### ☁️ Cloud, Databases & DevOps
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux_Administration-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-
-### 🗄️ Databases & Caching
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-### 🔐 Cryptography, Systems & Specialized R&D
-![CRYSTALS-Kyber](https://img.shields.io/badge/CRYSTALS--Kyber-Post--Quantum_Crypto-4A154B?style=for-the-badge&logo=securityscorecard&logoColor=white)
-![IoT Frameworks](https://img.shields.io/badge/IoT_Edge_Security-008080?style=for-the-badge&logo=espressif&logoColor=white)
-![Distributed Inference](https://img.shields.io/badge/Distributed_Inference-Batching_&_Quantization-6366F1?style=for-the-badge&logo=nvidia&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </div>
 
@@ -101,57 +116,81 @@ const nithiyanandam = {
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🚀 Distributed Backend Serving Stack</h3>
-      <p><em>Python • Kubernetes • TorchServe • Docker • gRPC</em></p>
+      <h3>🚨 Landslide Nexus: Early Warning & Risk Monitoring System</h3>
+      <p><em>Python • IoT Sensor Telemetry • Geospatial Physics • Alerting Webhooks</em></p>
+      <p><strong>Ministry of Development of North Eastern Region (MDoNER) · SIH ID: 26001</strong></p>
       <ul>
-        <li>Architected a fault-tolerant, horizontally scalable backend inference engine.</li>
-        <li>Implemented dynamic request batching & model quantization, slashing p99 latency by <strong>35% under peak stress</strong>.</li>
-        <li>Built automated Prometheus metric scrapers and Grafana dashboards for cluster observability.</li>
+        <li>Industry-grade geotechnical disaster monitoring platform protecting all 8 North Eastern states.</li>
+        <li>Real-time sensor ingestion, Factor of Safety (FoS) calculations, and automated multi-lingual alerts.</li>
       </ul>
       <p>
-        <a href="https://github.com/Nike-Anand"><img src="https://img.shields.io/badge/Source_Code-GitHub-2563EB?style=flat-square&logo=github" alt="Code"></a>
+        <a href="https://github.com/Nike-Anand/early-warning-System"><img src="https://img.shields.io/badge/Repository-GitHub-2563EB?style=flat-square&logo=github" alt="Code"></a>
         <img src="https://img.shields.io/badge/Status-Production_Ready-success?style=flat-square" alt="Status">
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🔐 Post-Quantum Secure IoT Framework</h3>
-      <p><em>Python • CRYSTALS-Kyber • Microcontrollers • SIH 2024</em></p>
+      <h3>💼 AI Enterprise Cost Intelligence System</h3>
+      <p><em>Python • Multi-Agent Architecture • Financial Telemetry • Modern UI</em></p>
       <ul>
-        <li>Engineered quantum-resistant Key Encapsulation Mechanism (KEM) for resource-constrained IoT edge devices.</li>
-        <li>Achieved <strong>3x faster secure key exchange</strong> compared to traditional RSA/ECC protocols on embedded hardware.</li>
-        <li>Led team of 6 engineers to the national finals of <strong>Smart India Hackathon 2024</strong>.</li>
+        <li>Autonomous financial intelligence engine that detects enterprise spending anomalies and simulates corrective measures.</li>
+        <li>Multi-agent event loop coordinating detection, root-cause explanation, and fiscal impact scoring.</li>
       </ul>
       <p>
-        <a href="https://github.com/Nike-Anand"><img src="https://img.shields.io/badge/National_Finalist-SIH_2024-FF9900?style=flat-square&logo=trophy" alt="SIH"></a>
-        <img src="https://img.shields.io/badge/NIST-Post_Quantum-blueviolet?style=flat-square" alt="NIST">
+        <a href="https://github.com/Nike-Anand/AI-Enterprise-Cost-Intelligence"><img src="https://img.shields.io/badge/Repository-GitHub-2563EB?style=flat-square&logo=github" alt="Code"></a>
+        <img src="https://img.shields.io/badge/Type-Multi--Agent_System-blueviolet?style=flat-square" alt="Type">
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>⚡ Real-Time Verification Microservice</h3>
-      <p><em>FastAPI • Docker • Redis • Celery • Asynchronous Workflows</em></p>
+      <h3>🔐 Lightweight Post-Quantum Cryptography for IoT</h3>
+      <p><em>Python • Flask • ESP8266 • CRYSTALS-Kyber • PQC</em></p>
+      <p><strong>Published in IJCRT (2025) · SIH National Finalist (Team Lead)</strong></p>
       <ul>
-        <li>Engineered sub-second verification microservice handling concurrent asynchronous validation requests.</li>
-        <li>Reduced API response latency from 1.2s to under <strong>180ms</strong> with connection pooling and Redis in-memory caching.</li>
-        <li>Configured multi-stage containerized CI/CD workflow with automated health checks.</li>
+        <li>Designed quantum-resistant encryption framework combining lattice-based cryptography with code-based error correction.</li>
+        <li>Built file encryption web application; achieved 3x faster secure key exchange on resource-constrained devices.</li>
       </ul>
       <p>
-        <a href="https://github.com/Nike-Anand"><img src="https://img.shields.io/badge/View_Repo-FastAPI-009688?style=flat-square&logo=fastapi" alt="FastAPI"></a>
-        <img src="https://img.shields.io/badge/Speedup-6.6x-brightgreen?style=flat-square" alt="Speedup">
+        <a href="https://github.com/Nike-Anand/PQC-Algorithm"><img src="https://img.shields.io/badge/PQC_Repo-GitHub-2563EB?style=flat-square&logo=github" alt="PQC"></a>
+        <img src="https://img.shields.io/badge/Research-IJCRT_2025-FF9900?style=flat-square" alt="Research">
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🤖 Agentic Pipeline Automation Framework</h3>
-      <p><em>Python • GitHub Actions • Synthetic Evaluation • Telemetry</em></p>
+      <h3>📱 PRAssist.ai — AI PR Reviewer on the Go</h3>
+      <p><em>Flutter • Node.js • Ollama • Mistral 7B • Mobile Reviews</em></p>
       <ul>
-        <li>Designed a multi-stage automated routing pipeline integrated into CI/CD workflows.</li>
-        <li>Implemented automated semantic validation, regressions sweeps, and diagnostic feedback loops.</li>
-        <li>Integrated webhook alerting triggers for continuous deployment verification.</li>
+        <li>Mobile-first assistant helping engineers review pull requests, catch regressions, and make fast merge decisions.</li>
+        <li>Automated verdict engine with inline suggestion summaries and status dispatch.</li>
       </ul>
       <p>
-        <a href="https://github.com/Nike-Anand"><img src="https://img.shields.io/badge/Explore-CI_CD_Tooling-2088FF?style=flat-square&logo=github-actions" alt="CI/CD"></a>
-        <img src="https://img.shields.io/badge/Type-Automation-indigo?style=flat-square" alt="Type">
+        <a href="https://github.com/Nike-Anand/Code-Review"><img src="https://img.shields.io/badge/View_Repo-GitHub-2563EB?style=flat-square&logo=github" alt="Code"></a>
+        <img src="https://img.shields.io/badge/Status-Mobile_App-009688?style=flat-square" alt="Status">
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📜 Tamil Historical Character Recognition System</h3>
+      <p><em>Python • PyTorch • OpenCV • CRNN (CNN + BiLSTM + CTC) • OCR</em></p>
+      <ul>
+        <li>Built an offline OCR pipeline for historical Tamil manuscripts, achieving 95%+ Tamil and 98%+ English character accuracy.</li>
+        <li>Implemented adaptive thresholding, noise reduction, skew correction, and line/word segmentation for degraded texts.</li>
+      </ul>
+      <p>
+        <a href="https://github.com/Nike-Anand/tamil-text-recognition"><img src="https://img.shields.io/badge/OCR_Repo-GitHub-2563EB?style=flat-square&logo=github" alt="Code"></a>
+        <img src="https://img.shields.io/badge/Accuracy-95%2B%25-brightgreen?style=flat-square" alt="Acc">
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🚌 Chennai MTC Bus Route Finder</h3>
+      <p><em>Python • PyTorch • Graph Algorithms • Route Optimization</em></p>
+      <ul>
+        <li>Scraped and modeled MTC route transit data to compute optimal travel paths between transit stops.</li>
+        <li>Applied graph search algorithms and trained a compact NLP language model for conversational route queries.</li>
+      </ul>
+      <p>
+        <a href="https://github.com/Nike-Anand/-Bus_Route_Finder"><img src="https://img.shields.io/badge/Route_Finder-GitHub-2563EB?style=flat-square&logo=github" alt="Code"></a>
+        <img src="https://img.shields.io/badge/Type-Transit_Graph-indigo?style=flat-square" alt="Type">
       </p>
     </td>
   </tr>
@@ -196,17 +235,16 @@ const nithiyanandam = {
 ## 📜 Quest Log (Developer Progression)
 
 <details>
-<summary>🗺️ <b>Main Quest: Backend & Distributed Systems Architecture</b></summary>
+<summary>🗺️ <b>Main Quest: Full Stack & Systems Engineering Journey</b></summary>
 <br>
 
 | Status | Quest Milestone | Experience Points |
 | :----: | :-------------- | :---------------: |
 |   ✅   | Master Core Data Structures & Algorithmic Complexity | +500 XP |
-|   ✅   | Architect Scalable FastAPI & Enterprise Java Microservices | +750 XP |
-|   ✅   | Implement Dynamic Inference Batching & Quantization (-35% Latency) | +1000 XP |
-|   ✅   | Deploy Fault-Tolerant Microservices with Docker & Kubernetes | +1000 XP |
-|   🔄   | Build High-Throughput Distributed Raft Consensus Service | +1500 XP |
-|   🔄   | Deep Dive into Kernel-Level eBPF Networking & Tracing | +2000 XP |
+|   ✅   | Build Production Web Applications for 9-Division Hospital Org (Tech Machers) | +1500 XP |
+|   ✅   | Architect Scalable Payload CMS, Next.js, and React Microservices | +1000 XP |
+|   ✅   | Train 20+ Engineers in Generative AI & Deep Learning (Altruisty) | +1200 XP |
+|   🔄   | Build High-Throughput Distributed Microservices & Real-Time Sync | +1500 XP |
 
 </details>
 
@@ -217,22 +255,24 @@ const nithiyanandam = {
 | Status | Quest Milestone | Experience Points |
 | :----: | :-------------- | :---------------: |
 |   ✅   | Implement CRYSTALS-Kyber KEM Lattice-Based Cryptography | +1000 XP |
-|   ✅   | Optimize Key Encapsulation for Resource-Constrained IoT Hardware | +1200 XP |
-|   🏆   | Lead 6-Member Engineering Team as **SIH 2024 National Finalist** | +2500 XP |
-|   🏆   | Qualify as **Smart India Hackathon (SIH) 2025 National Finalist** | +2500 XP |
-|   📜   | Publish Research Paper *"Secure AI Systems"* (IJCRT / ICICRCET'25) | +1500 XP |
+|   ✅   | Publish First-Author Research Paper in **IJCRT (2025)** | +1500 XP |
+|   🏆   | Lead Engineering Team to **Smart India Hackathon (SIH 2024) National Finals** | +2500 XP |
+|   🏆   | Qualify as **Smart India Hackathon (SIH 2025) National Finalist** | +2500 XP |
+|   🏆   | Top 6 Nationwide @ **Infosys Hackathon 2025** | +2000 XP |
 
 </details>
 
 <details>
-<summary>💼 <b>Side Quest: Enterprise Engineering & Industry Internships</b></summary>
+<summary>🤖 <b>Side Quest: Artificial Intelligence & Computer Vision Arc</b></summary>
 <br>
 
 | Status | Milestone | Experience Points |
 | :----: | :-------- | :---------------: |
-|   ✅   | **Sify Technologies** (Software Development Intern): Enterprise Java, Factory & Strategy Patterns | +1500 XP |
-|   ✅   | **Altruisty** (Backend & Systems Research Intern): Inference Optimization across 12+ projects | +1200 XP |
-|   ✅   | **Vodafone Idea (Vi)** (Data Analyst Intern): SQL Optimization across 10M+ rows (-40% runtime) | +1000 XP |
+|   ✅   | Selected for **Amazon ML Summer School 2026** | +2000 XP |
+|   ✅   | Build Historical Tamil OCR CRNN Engine (95%+ Accuracy) | +1200 XP |
+|   ✅   | Build Deep Learning NLP Generator across 48M Amazon Products | +1500 XP |
+|   ✅   | Certified **Google Cloud Generative AI Leader** | +1000 XP |
+|   ✅   | Earn NPTEL Computer Vision & NLP (**Elite + Gold Medal**) | +1000 XP |
 
 </details>
 
@@ -268,20 +308,23 @@ const nithiyanandam = {
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/Nike-Anand"><img src="assets/github_logo.gif" width="38" alt="GitHub" /></a>
 &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://instagram.com"><img src="assets/insta_logo.gif" width="38" alt="Instagram" /></a>
+<a href="https://www.instagram.com/jtz_me_anand?vrfl=cmRuMGc3dWk5cXgz"><img src="assets/insta_logo.gif" width="38" alt="Instagram" /></a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://leetcode.com/u/Nike_Anand/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" height="34" alt="LeetCode" /></a>
 
 <br><br>
 
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nithiyanandam4826@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Interactive_Portfolio-2563EB?style=for-the-badge&logo=windows-xp&logoColor=white)](https://github.com/Nike-Anand)
+[![Email](https://img.shields.io/badge/Gmail-nikeanand97%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nikeanand97@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-Download_PDF-2563EB?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1blr2kOwfY969zjCi__Vzlmxu1lAuCw7I/view?usp=sharing)
+[![Interactive Portfolio](https://img.shields.io/badge/Interactive_Portfolio-Windows_XP-0053E5?style=for-the-badge&logo=windows-xp&logoColor=white)](https://github.com/Nike-Anand)
 
 <br>
 
 ```
-⚡ Available for Full-Time Backend Software Engineering, Systems Engineering & Distributed Architecture roles.
+⚡ Open for Software Development Engineer (SDE), Full-Stack & Machine Learning Roles / Internships.
 ```
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&pause=1000&color=2563EB&center=true&vCenter=true&random=false&width=600&lines=Thanks+for+visiting!+Drop+a+%E2%AD%90+if+you+enjoyed+this+profile;Let's+build+fault-tolerant+systems+together+%F0%9F%9A%80;Latency+down%2C+throughput+up!+%F0%9F%94%A5" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&pause=1000&color=2563EB&center=true&vCenter=true&random=false&width=600&lines=Thanks+for+visiting!+Drop+a+%E2%AD%90+if+you+enjoyed+this+profile;Let's+build+scalable+software+together+%F0%9F%9A%80;Ship+clean+code%2C+solve+hard+problems!+%F0%9F%94%A5" />
 
 <br><br>
 
